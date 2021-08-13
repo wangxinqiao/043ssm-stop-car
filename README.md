@@ -8,7 +8,7 @@
 系统分为了两个角色：车主和租客，主要功能包括停车位信息，租赁合同管理，车位申请列表，退租申请，故障处理，在租列表，租金信息等功能。
 ```
 
-源码获取：[点此获取](http://www.shuyue.fun/?type=productinfo&id=144)
+源码获取：[ **点此获取** ](http://www.shuyue.fun/?type=productinfo&id=144)
 
 #### 环境需要
 ```
